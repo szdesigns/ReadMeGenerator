@@ -12,6 +12,3 @@ Tutor Andrew Stiles
 This project is covered under the None licenses(s).
 ## Contribution Info
 If you want to contribute, contact me thru internet
-## Screenshot
-![Screenshot](screenshot.png)
-
